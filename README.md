@@ -3,6 +3,8 @@
 광주소프트웨어마이스터고 재학중인 FE
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=radical)
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -51,6 +53,10 @@
 <div align="center">
   <a href="https://velog.io/@mikao/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+
+<a href="https://www.instagram.com/?next=%2Fmikao_717%2F">
+    <img src="https://img.shields.io/badge/Instagram-#FF0069?style=for-the-badge&logo=Instagram&logoColor=#FF0069" />&nbsp
   </a>
 </div>
 
