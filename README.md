@@ -1,6 +1,8 @@
 # 박서현
 
 
+# 광주 소프트웨어 마이스터 고등학교 재학중인 FE 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--내용 부분-->
@@ -32,7 +34,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -64,7 +65,8 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  
+  <a href="https://github.com/mikao4869">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
