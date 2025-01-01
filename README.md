@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
   
-  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=CSS&logoColor=1572B6" />
+ <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
 </div>
