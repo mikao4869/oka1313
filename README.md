@@ -1,20 +1,21 @@
 # 박서현
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-  badge&logo=react&logoColor=61DAFB" />
   
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" />
   
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  
+  <img src="https://img.shields.io/badge/CSS-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=#1572B6" />
+
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
 </div>
 
