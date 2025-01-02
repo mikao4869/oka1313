@@ -6,7 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="Anurag's GitHub stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikao4869&layout=compact" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikao4869&layout=donut" alt="Top Languages">
+  </a>
 </div>
 
 
