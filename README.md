@@ -2,6 +2,9 @@
 
 광주소프트웨어마이스터고 재학중인 FE 
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="Anurag's GitHub stats">
+</div>
 
 
 <!--내용 부분-->
