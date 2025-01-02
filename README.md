@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=default)
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
