@@ -5,7 +5,7 @@
 
 [default]: https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
