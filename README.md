@@ -2,10 +2,8 @@
 
 광주소프트웨어마이스터고 재학중인 FE 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="Anurag's GitHub stats">
-</div>
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikao4869&layout=donut" alt="Top Languages">
   </a>
