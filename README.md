@@ -3,9 +3,7 @@
 광주소프트웨어마이스터고 재학중인 FE
 
 
-[default]: https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
-
-https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
