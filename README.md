@@ -1,6 +1,6 @@
-# 박서현
+# 박서현 🌱
 
-광주소프트웨어마이스터고 재학중인 FE
+광주소프트웨어마이스터고 재학중인 FE 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue)
