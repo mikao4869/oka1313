@@ -56,7 +56,7 @@
   </a>
 
 <a href="https://www.instagram.com/aigurexx1/?next=%2Fmikao_717%2F">
-    <img src="https://img.shields.io/badge/Instagram-#FF0069?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
 </div>
 
