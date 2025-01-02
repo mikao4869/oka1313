@@ -5,6 +5,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="Anurag's GitHub stats">
 </div>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mikao4869=anuraghazra&layout=compact)
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
